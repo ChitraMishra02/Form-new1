@@ -1,0 +1,90 @@
+.master{
+         width:900px;
+         
+         margin:0 auto;
+         border:1px solid gray;
+         
+
+}
+.submaster{
+            width:900px;
+            height:250px;
+            background-color: whitesmoke;
+           
+
+}
+.leftbox{
+          width:300px;
+          
+          float:left;
+
+}
+.leftbox h1{
+             font-size:18px;
+             letter-spacing: -1px;
+             margin-left:10px;
+             
+}
+
+.leftbox p{
+            color:lightgray;
+            margin-left:10px;
+
+}
+.leftbox h6{
+    margin-left:10px;
+}
+/* rightsideworkstarthere */
+
+.rightbox{
+          width:400px;
+          background-color: whitesmoke;
+          text-align: center;
+          float:right;
+          margin-right:30px;
+          margin-top:20px;
+          border:2px solid gray
+
+}
+.rightbox h2{
+            text-align: left;
+            font-size:10px;
+            text-transform:uppercase;
+            margin-left:20px;
+
+}
+.rightbox input{
+                height:30px;
+                border-radius:10px;
+                border-color:#ff0061;
+}
+.rightbox textarea{
+             border-color:#ff0061;
+}
+.button{
+        text-align:right;
+        margin-right:20px;
+        
+
+}
+button{
+      background-color:#ff0061;
+}
+/* pinkbox */
+.pinkbox{
+         background-color:#ff0061;
+         width:900px;
+         height:300px;
+
+}
+.pinkbox .firstdivbox  {
+                         background-color:peru;
+                         width:200px;
+                         background-postion:left bottom;
+
+
+}
+.pinkbox  .firstdivbox h1 {
+                            font-size:20px;
+
+}
